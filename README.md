@@ -7,7 +7,7 @@ This is a Dice game for a web application
 
 
 ### for a quick preview:
-https://incitetoolhub.netlify.app/
+https://6368c81d52cfab1e709f3480--strong-macaron-7a83fe.netlify.app/
 
 ## Overview
 This project is a dice game that embrace a simple intuitive design and has a multiplayer feature. 
